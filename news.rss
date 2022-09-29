@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <atom:link href="http://www.thanetwalkingfestival.co.uk/news.rss" rel="self" type="application/rss+xml" />
+      <title>Thanet Walking Festival News</title>
+      <link>http://www.thanetwalkingfestival.co.uk</link>
+      <description>The Latest News from the Thanet Walking Festival</description>
+      <language>en-gb</language>
+      <managingEditor>colinwbridge@yahoo.co.uk (Colin Bridge)</managingEditor>
+      <webMaster>andrewbridge@live.co.uk (Andrew Bridge)</webMaster>
+      <pubDate>Thu, 01 Apr 2010 22:03:00 GMT</pubDate>
+      <lastBuildDate>Sun, 20 Jun 2010 00:01:00 GMT</lastBuildDate>
+      <category>Walking</category>
+      <generator>RSS 2.0 generation class</generator>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	<item>
+         <title>Another successful year</title>
+         <link>http://www.thanetwalkingfestival.co.uk/latest-news/</link>
+         <description>Many thanks to all who took part in this year's festival!</description>
+         <pubDate>Sat, 12 Apr 2012 15:10:01 GMT</pubDate>
+      </item>
+	<item>
+         <title>Thanet Walking Festival 2012</title>
+         <link>http://www.thanetwalkingfestival.co.uk/latest-news/</link>
+         <description>Preparation is well under way, details of the program mere available on the <a href='http://goo.gl/XuYtl'>Festival Programme</a> page.<br/><br/>Check back here as the festival nears for more details.</description>
+         <pubDate>Wed, 11 Jan 2011 15:10:01 GMT</pubDate>
+      </item>
+	<item>
+         <title>Turner Contemporary Event</title>
+         <link>http://www.thanetwalkingfestival.co.uk/latest-news/</link>
+         <description>Late Night Live: Landmark<br />20 April 6-10pm<br />
+Artist Hamish Fulton will be leading a group walk as part of this evening event at Turner Contemporary,
+in celebration of Turner Contemporary’s 1st birthday.<br /><br />
+To take part in the walk email <a href="mailto:sangiama@turnercontemporary.org">sangiama@turnercontemporary.org</a>.</description>
+         <pubDate>Wed, 11 Jan 2011 15:10:01 GMT</pubDate>
+      </item>
+   </channel>
+</rss>

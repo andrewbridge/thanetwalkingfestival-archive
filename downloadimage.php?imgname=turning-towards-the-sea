@@ -1,0 +1,13 @@
+<title>Download 'turning-towards-the-sea' from the Thanet Walking Festival</title>
+<div id='box' style='width: 750px;'>
+<p onclick='$.fancybox.close()' style='float: right; cursor: pointer; color: #FFF;'>Close</p>
+<h1 style='color: #000; font-size: 23px;'>Download Image</h1>
+<br />
+<p style='text-align: center;'><img height='300' src='images/tip-imgs/turning-towards-the-sea' alt='Turning Towards The Sea' style='margin: 0 auto; padding: 6px;  background:#FFFFFF; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em; border:1px solid #C4C4C4;' /></p>
+<p style='text-align: center; color: #000; font-size: 12px; line-height: 18px;'>Turning Towards The Sea</p>
+<br />
+<p style='color: #000; font-size: 14px;'>If you would like to download this photo to your computer or if you'd like to enquire about the licensing information for this photo, please select one of the links below.</p>
+<br/>
+<p style='color: #000; font-size: 15px; font-weight: bold; text-align: center;'><a href='download.php?file=turning-towards-the-sea&type=tip-img' style='text-decoration: none; color: #7EB2FF;'>Download Photo</a>&#32;&#124;&#32;<a href="mailto:enquiry@thanetwalkingfestival.co.uk?subject=Enquiry about the license on the photo 'turning-towards-the-sea'" style='text-decoration: none; color: #7EB2FF;'>Enquire about Licensing</a></p>
+<br/>
+</div>
