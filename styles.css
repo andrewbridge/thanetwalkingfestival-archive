@@ -11,8 +11,8 @@ content: ""; display: block; clear: both;
 html {background: #76a000;}
 
 /*Taken this font face stuff out - it seemed to be causing issues on some pages
-@font-face { font-family: AurulentSans; line-height: 16px; src: url('http://www.thanetwalkingfestival.co.uk/AurulentSans-Regular.otf'); }
-@font-face { font-family: AurulentSans; font-weight: bold; line-height: 16px; src: url('http://www.thanetwalkingfestival.co.uk/AurulentSans-Bold.otf'); }
+@font-face { font-family: AurulentSans; line-height: 16px; src: url('/AurulentSans-Regular.otf'); }
+@font-face { font-family: AurulentSans; font-weight: bold; line-height: 16px; src: url('/AurulentSans-Bold.otf'); }
 */
 
 body {
