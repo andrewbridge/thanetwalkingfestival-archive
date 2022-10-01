@@ -66,7 +66,7 @@ $(document).ready(function() {
 
 $("a.slide").each(function () {
     var address = $(this).attr('href');
-$(this).attr('href',address+'&javascript=true');
+$(this).attr('href',address);
     });
 
 helpfulEmail();
@@ -76,8 +76,15 @@ function helpfulEmail() {
     
 $("a#email").each(function () {
     var address = $(this).attr('href');
-$(this).attr('href','http://www.thanetwalkingfestival.co.uk/emailHelp.php?email='+address);
-$(this).attr('rel','http://www.thanetwalkingfestival.co.uk/emailHelp.php?email='+address);
+    $(this).attr('href','/emailHelp.html');
+    $(this).attr('rel','/emailHelp.html');
+    $(this).click(() => {
+        const intervalUid = setInterval(() => {
+            if ($('#cluetip-inner #email-help').length === 0) return;
+            clearInterval(intervalUid);
+            $('#cluetip-inner').html($('#cluetip-inner').html().replace(/{{EMAIL}}/g, address.replace('mailto:', '')))
+        }, 50);
+    });
 //The following fixes an IE Bug
 var htmlNew = address.replace("mailto:","");
 $(this).html(htmlNew);
